@@ -9,7 +9,7 @@ R: Dentro do <head> coloquei o charset UTF-8, que permite utilizar acentos e car
 
 3. Como você utilizou as duas <div> para separar e organizar os conteúdos da página? Informe também os nomes das classes criadas.
    
-R: Usei duas <div> para separar os conteúdos da página. A primeira possui a classe perfil e contém minhas informações e meus interesses. A segunda possui a classe objetivos e apresenta o que quero aprender sobre tecnologia.
+R: Usei duas<div> para separar os conteúdos da página. A primeira possui a classe perfil e contém minhas informações e meus interesses. A segunda possui a classe objetivos e apresenta o que quero aprender sobre tecnologia.
 
 4. Como você aplicou o CSS dentro da tag <style>? Apresente um seletor, uma propriedade e um valor existentes no seu código.
 
